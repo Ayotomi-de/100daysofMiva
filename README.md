@@ -23,11 +23,7 @@ You can join the #100daysofMiva challenge by:
 - Contributing to the projects by submitting pull requests.
 - Sharing your progress on social media with the hashtag #100daysofMiva.
 
-## License
-This repository is licensed under the General public License.
-
 ## Connect with Me
-
 Follow my journey on:
 - LinkedIn: www.linkedin.com/in/ayotomide-ogunsami-93aa61312
 
