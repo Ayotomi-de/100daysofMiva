@@ -35,6 +35,4 @@ Let the journey of the next 100 days begin!
 
 ---
 
-**Note:** I would love to learn front-end designs but i have a bad sense of colour and font picking. bear with me 😂😭✌🏻
-
 
