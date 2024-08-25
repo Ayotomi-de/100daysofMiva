@@ -54,10 +54,13 @@ I can increase the font by clicking on command plus and then vice versa by click
 
 The console allows us to write and test Javascript code so it’s very useful during development e.g fixing errors however we can’t write real applications using this console.
 
-`alert("Hello World")
+```
+alert("Hello World")
 let js = "amazing"
 if (js === 'amazing') alert("Javascript is fun")
-50+60-10`
+
+50+60-10
+```
 
 
 ## Challenges I faced
@@ -66,4 +69,4 @@ The only challenge I can say I faced was not knowing why the codes where working
 
 ## Conclusion
 
-I'm very happy that I took this journey and that I'm already learning a lot. I personally know that I'll soon overcome the challenges I faced and before you know it I'll be a guru🤭. Anyways thanks a lot fam❤️. Anticipate my day 3 article👋🏾.
+I'm very happy that I took this journey and that I'm already learning a lot. I personally know that I'll soon overcome the challenges I faced and before you know it I'll be a guru🤭. Anyways thanks a lot fam❤️.
